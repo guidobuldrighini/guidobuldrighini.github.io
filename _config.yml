@@ -23,9 +23,9 @@ twitter_username: briz
 github_username:  guidobuldrighini
 
 comments:
-  provider: "disqus"
+  provider: disqus
   disqus:
-    shortname: "thestupidcomputer"
+    shortname: thestupidcomputer
 
 # Build settings
 markdown: kramdown
