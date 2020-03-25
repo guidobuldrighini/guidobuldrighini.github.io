@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title:  "Hello World!"
 date:   2020-03-22 17:48:49 +0100
 categories: updates
