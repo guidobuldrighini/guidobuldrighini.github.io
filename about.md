@@ -6,7 +6,6 @@ permalink: /about/
 
 Chi sono io?  
 Chi sei tu?!  
-Sono un web developer con la passione per tutto ciò che si fa sul web o che si può interfacciare col web.  
-Appassionato di Linux e Mac OS, Android e iOs.  
-Attualmente abito a Montescudo in Romagna.  
+Sono un web developer con la passione Linux, Mac OS, Android e iOs e anche qualche dispositivo IOT.  
+Attualmente abito a Montescudo in Romagna, Italia, Europa, Mondo.  
 Per qualsiasi domanda o richiesta non esitate a contattarmi.
