@@ -38,8 +38,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
     instagram: guido_buldrighini
     linkedin: guidobuldrighini
     # pinterest: jekyll
-    # youtube: jekyll
-    youtube_channel: guidobuldrighini
+    youtube: guidobuldrighini
+    # youtube_channel: guidobuldrighini
     # youtube_channel_name: CloudCannon
     telegram: guidobuldrighini
     # googleplus: +jekyll
