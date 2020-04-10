@@ -26,8 +26,8 @@ twitter_username: briz
 github_username:  guidobuldrighini
 linkedin_username:  guidobuldrighini
 telegram_username: guidobuldrighini
-instagram_username: guido_buldrighini
-youtube_username : guidobuldrighini
+# instagram_username: guido_buldrighini
+# youtube_username : guidobuldrighini
 
 # Build settings
 markdown: kramdown
