@@ -21,30 +21,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# twitter_username: briz
-# github_username:  guidobuldrighini
-# linkedin_username:  guidobuldrighini
-# telegram_username: guidobuldrighini
-# instagram_username: guido_buldrighini
-
 # generate social links in footer
-  social_links:
-    twitter: briz
-    github:  guidobuldrighini
-    # devto: jekyll
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    instagram: guido_buldrighini
-    linkedin: guidobuldrighini
-    # pinterest: jekyll
-    youtube: guidobuldrighini
-    # youtube_channel: guidobuldrighini
-    # youtube_channel_name: CloudCannon
-    telegram: guidobuldrighini
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
+twitter_username: briz
+github_username:  guidobuldrighini
+linkedin_username:  guidobuldrighini
+telegram_username: guidobuldrighini
+instagram_username: guido_buldrighini
+youtube_username : guidobuldrighini
 
 # Build settings
 markdown: kramdown
