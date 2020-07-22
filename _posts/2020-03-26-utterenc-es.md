@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Utteranc.es"
+title:  "Utteranc es"
 date:   2020-03-26 17:30:49 +0100
 categories: updates
 ---
